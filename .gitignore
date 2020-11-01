@@ -1,1 +1,8 @@
-.dSYM
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+*/*.dSYM
+*.DS_Store

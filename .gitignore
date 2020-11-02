@@ -3,6 +3,9 @@
 
 # Unignore all with extensions
 !*.*
+!*.cpp
 
+
+# Ignore C++ compilation artifacts
 */*.dSYM
 *.DS_Store
